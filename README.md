@@ -10,7 +10,7 @@ Untuk skala 100% nya
 
 
 dimulai dari start > print > input > 
-jika input 1 maka akan melanjutkan ke sign up
+jika input 1 maka akan melanjutkan ke sign up,
 jika input 2 maka akan selesai program,
 lainnya: akan ke loop dari input
 
@@ -34,13 +34,12 @@ jika salah maka akan print massage > ke loop ke bagian sign up
 
 jika benar:
 
-input kalkulator
-jika input 1 maka akan lanjut ke kalkulator gaji
-jika input 2 akan ke loop ke bagian sign up
+jika input 1 maka akan lanjut ke kalkulator gaji,
+jika input 2 akan ke loop ke bagian sign up,
 lainnya: akan loop ke bagian input kalkulator
 
 penghitungan
-jika input =< 160 (benar) dan input tarif, akan ke penghitungan tanpa bonus
+jika input =< 160 (benar) dan input tarif, akan ke penghitungan tanpa bonus 
 jika input =< 160 (salah) dan input tarif, akan ke penghitungan dengan bonus
 lalu keduanya akan print hasil masing-masing dilanjutkan dengan looping
 ke bagian input kalkulator
