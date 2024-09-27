@@ -23,7 +23,7 @@ lainnya: akan ke loop dari input
 input 1:
 
 masukan nama dan nim > masukan nama dan nim lagi > 
-jika benar akan lanjut ke kalkulator
+jika benar akan lanjut ke kalkulator,
 jika salah maka akan print massage > ke loop ke bagian sign up
 
 
