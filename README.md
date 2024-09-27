@@ -43,3 +43,10 @@ jika input =< 160 (benar) dan input tarif, akan ke penghitungan tanpa bonus
 jika input =< 160 (salah) dan input tarif, akan ke penghitungan dengan bonus     
 lalu keduanya akan print hasil masing-masing dilanjutkan dengan looping
 ke bagian input kalkulator
+
+
+
+
+![Screenshot 2024-09-27 112239](https://github.com/user-attachments/assets/fd45fb3a-272c-4f64-b42a-13bf8986fc97)
+
+output hasil terminal
