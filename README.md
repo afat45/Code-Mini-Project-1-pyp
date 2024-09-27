@@ -1,35 +1,16 @@
-Untuk skala 100% nya
 
-
-![skala 100%](https://github.com/user-attachments/assets/cf3ad7f7-18dd-4f6b-91df-d9e1ee838991)
-
-
-
-
-![part 1](https://github.com/user-attachments/assets/2717e8c0-6655-4ba4-81d6-1310f1e3f728)
-
+![flowchart png](https://github.com/user-attachments/assets/d2fbfe9e-ee1c-4e48-9919-d4e07ae5dc49)
 
 dimulai dari start > print > input > 
 jika input 1 maka akan melanjutkan ke sign up,
 jika input 2 maka akan selesai program,
 lainnya: akan ke loop dari input
 
-
-
-
-![part 2](https://github.com/user-attachments/assets/9988d2f0-503b-4cd2-bf62-1e966564bd92)
-
-
 input 1:
 
 masukan nama dan nim > masukan nama dan nim lagi > 
 jika benar akan lanjut ke kalkulator,
 jika salah maka akan print massage > ke loop ke bagian sign up
-
-
-
-
-![part 3](https://github.com/user-attachments/assets/4393d698-edf8-49b9-9c57-1d6041f4852a)
 
 
 jika benar:
