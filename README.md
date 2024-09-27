@@ -39,7 +39,7 @@ jika input 2 akan ke loop ke bagian sign up,
 lainnya: akan loop ke bagian input kalkulator
 
 penghitungan
-jika input =< 160 (benar) dan input tarif, akan ke penghitungan tanpa bonus 
-jika input =< 160 (salah) dan input tarif, akan ke penghitungan dengan bonus
+jika input =< 160 (benar) dan input tarif, akan ke penghitungan tanpa bonus    /     
+jika input =< 160 (salah) dan input tarif, akan ke penghitungan dengan bonus     
 lalu keduanya akan print hasil masing-masing dilanjutkan dengan looping
 ke bagian input kalkulator
