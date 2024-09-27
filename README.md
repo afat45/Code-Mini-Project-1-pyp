@@ -11,7 +11,7 @@ Untuk skala 100% nya
 
 dimulai dari start > print > input > 
 jika input 1 maka akan melanjutkan ke sign up
-jika input 2 maka akan selesai program 
+jika input 2 maka akan selesai program,
 lainnya: akan ke loop dari input
 
 
