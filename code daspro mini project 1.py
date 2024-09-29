@@ -1,3 +1,5 @@
+#penjelasan code ada di bawah 
+
 print("\nSelamat Datang di calculator tarif kerja")
 perintah_1=""
 while True:
@@ -60,3 +62,16 @@ Pilihan: """))
     break
   else:
     print("Apa maksud mu? ")
+
+#penjelasan
+
+#untuk baris 1 : kalimat pembuka
+#untuk baris 2-3 : loop 1
+#untuk baris 4-8 : pilihan input login
+#untuk baris 9-16 : login sederhana
+#untuk baris 18-19 : loop 2
+#untuk baris 20-24 : pilihan input calculator
+#untuk baris 25-55 : calculator bekerja
+#untuk baris 56-57 : command jika nim dan nama tidak sama
+#untuk baris 58-60 : pada lobby 1 jika udahan
+#untuk baris 61-62 : pada lobby 1 jika tidak jelas inputannya
